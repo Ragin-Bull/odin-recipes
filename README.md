@@ -1,2 +1,1 @@
-# odin-recipes
-First project while following the Odin Project
+In this project I will be using html elements like paragraph, heading, strong, emphasis, img, anchor tag etc for creating a very basic HTML page at the initial stage. 
